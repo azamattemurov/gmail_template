@@ -1,0 +1,103 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="transform" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="EmptyDirectory" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="border" />
+            <item index="1" class="java.lang.String" itemvalue="cellspacing" />
+            <item index="2" class="java.lang.String" itemvalue="align" />
+            <item index="3" class="java.lang.String" itemvalue="file_example_JPG_100kB" />
+            <item index="4" class="java.lang.String" itemvalue="file_example_JPG_100kB.jpg" />
+            <item index="5" class="java.lang.String" itemvalue="text" />
+            <item index="6" class="java.lang.String" itemvalue="slider-bg.jpg" />
+            <item index="7" class="java.lang.String" itemvalue="slider-bg.jpg%}" />
+            <item index="8" class="java.lang.String" itemvalue="color" />
+            <item index="9" class="java.lang.String" itemvalue="ko" />
+            <item index="10" class="java.lang.String" itemvalue="Ustoz" />
+            <item index="11" class="java.lang.String" itemvalue="darkviolet" />
+            <item index="12" class="java.lang.String" itemvalue="jsaction" />
+            <item index="13" class="java.lang.String" itemvalue="jsname" />
+            <item index="14" class="java.lang.String" itemvalue="alt" />
+            <item index="15" class="java.lang.String" itemvalue="src" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="title" />
+            <item index="7" class="java.lang.String" itemvalue="tr" />
+            <item index="8" class="java.lang.String" itemvalue="body" />
+            <item index="9" class="java.lang.String" itemvalue="td" />
+            <item index="10" class="java.lang.String" itemvalue="th" />
+            <item index="11" class="java.lang.String" itemvalue="h1" />
+            <item index="12" class="java.lang.String" itemvalue="ul" />
+            <item index="13" class="java.lang.String" itemvalue="DOCTYPE" />
+            <item index="14" class="java.lang.String" itemvalue="style" />
+            <item index="15" class="java.lang.String" itemvalue="h2" />
+            <item index="16" class="java.lang.String" itemvalue="h7" />
+            <item index="17" class="java.lang.String" itemvalue="img" />
+            <item index="18" class="java.lang.String" itemvalue="div" />
+            <item index="19" class="java.lang.String" itemvalue="p" />
+            <item index="20" class="java.lang.String" itemvalue="a" />
+            <item index="21" class="java.lang.String" itemvalue="button" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="IncorrectFormatting" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCallingNonCallableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E303" />
+          <option value="E225" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlGotoInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
